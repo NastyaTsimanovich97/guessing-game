@@ -3064,5 +3064,5 @@ describe('#guess', () => {
 
         expect(result).to.equal(number);
     });
-});
+    });
 });
